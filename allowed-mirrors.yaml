@@ -1,0 +1,84 @@
+# Server whitelist for Wabbajack
+
+GoogleIDs:
+    
+AllowedPrefixes:
+    - https://wabbajack.b-cdn.net/  # Wabbajack CDN
+    - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
+    
+    # Common Sites
+    - http://enbseries.enbdev.com/
+    - http://enbdev.com/
+    - https://github.com/
+    - https://raw.githubusercontent.com/  
+    - https://gist.github.com/ # Github subdomain
+    - https://git.fireundubh.com/ # Fireundubh's Github subdomain
+
+ # Common files
+    - https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z # xEdit 4.0.3g (Official Discord Link)
+    - https://cdn.discordapp.com/attachments/518048160526893057/863117377146191882/xEdit_4.0.3h.7z # xEdit 4.0.3h (Official Discord Link)
+    - https://cdn.discordapp.com/attachments/518048160526893057/863262167415259146/xEdit_4.0.3h_Hotfix_1.7z # xEdit 4.0.3h Hotfix 1 (Official Discord Link)
+    - https://mega.nz/#!f1ERRAjR!CKRQrI2ZU04RhcFaN7x7L8EjoxDLj8vZM0i8XePmTZk # Skyrim_Particle_Patch_for_ENB--All-In-One.zip
+    - https://mega.nz/#!r0Ei1QwB!wqSFfjiHywamVGdERbq_iKKudShZ5Om_7WDbAlwrdvU # Skyrim_Particle_Patch_for_ENB-SSE.zip
+    - https://mega.nz/#!qgcAAaYR!mHmS5Rkylq-XiOUVQOFQOPfXTFYn55lmF0BdLWLaKWk # Skyrim_HighPoly_Fern_Meshes-SSE.zip
+    - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
+    - https://mega.nz/#!AUx0jCAZ!ErV9kZkwAOTJsQV8cO7UGNsK-AP-SbSPVrE-rdfnaHA # xLODGen.51.7z
+    - https://mega.nz/#!IZpyTIjA!LxbZLytZwxpzSeboiYm8InI77mlvrnpGysYz7ajcinM # xLODGen.55.7z
+    - https://mega.nz/#!kJZ1DALZ!N-BZtK-sarhMpIfwXT5IT_n8qx7sPc5pOy9u-5RkEN4 # xLODGen.56.7z
+    - https://mega.nz/#!MdxQEaLJ!l822HUZygktOY5y5MkEGQjRJB0XOhxVVT_uqBlf5Jug # xLODGen.57.7z
+    - https://mega.nz/#!QVZlzShQ!fkUTPUIp2O5cg1s4BlfwFMwI1uG6M3Hg9tCJNbw_hUE # xLODGen.58.7z
+    - https://mega.nz/#!8cBkwQpa!vcqbZX05EhpPWZkUv_jS72WvZu0Bfvud8S8MZdA7MDM # xLODGen.60.7z
+    - https://mega.nz/#!AF5zgAAB!pidCK8y2ZU0HRPsdgi8DtbVeDpAQ5Z0NXvOcqQQsLak # xLODGen.61.7z
+    - https://mega.nz/file/BIZATIxb#q2XDvIiIkEwNnz-8NdRCCVZ3h31Ft7u-Z6PZQ3UWbWM # xLODGen.62.7z
+    - https://mega.nz/file/ZB5FjKoT#Sr5YL0JHiUp1AXyqeRYsG-3mSQj-d-iVWlU4l6m6y-w # xLODGEN.63.7z
+    - https://mega.nz/file/VBJRFKAY#sm7YkovVCWczwnnNn4nmkV7PfHlkzQL67jAAUleZGng # xLODGen.64.7z
+    - https://mega.nz/file/kJAVAK6B#f1K2o6kLKL-swzeFia8CP1852LgJS8DREFG36r2FCDY # xLodgen 66.7z
+    - https://mega.nz/file/4Ux2zAZR#2OFEC6f19MlaZUyDdlbBPkoCtzhot-ZqQLChgcSAeus # xLODGen.67.7z
+    - https://mega.nz/file/hIpi1K4a#THx3hErf0AYNQpZIYlC1NP525yCpKtPMAF1Fs0lEXc4 # xLODGEN.68.7z
+    - https://mega.nz/file/ZMgTAQCB#4is4TCd0j6Oxhv-lY8_KUaXWv6tfqtQtQD6BLmUMus8 # xLODGEN.69.7z
+    - https://mega.nz/file/dV5y1RSY#jocMwtXi0KOUF3hGN_yOHX8cVf3Iz1RFdVFQ-5SSSHY # xLODGEN 70.7z
+    - https://mega.nz/file/BVxUjC6S#mrrkCNBxgVDbv3PyUz1VWUFN14VlbcILssp5fPc2hd0 # xLODGEN 71.7z
+    - https://mega.nz/file/NYISFJCB#NnHFAwR8ohPqbSQ_PtohCti5dj4QT7Dcu6MGTwWP8rU # xLODGEN.73.7z
+    - https://mega.nz/file/5ABX1AZR#yMyM236eRB6UguY96ryZWIZBWOSBBH1CnbY2IyQ7hwA # xLODGEN.74.7z
+    - https://mega.nz/file/0BhWBQpA#JNUgN6JUvYFR6z2_vuAoqXojElpHHurdQbga7XSM1-k # xLODGEN.75.7z
+    - https://mega.nz/#!NYISFJCB!NnHFAwR8ohPqbSQ_PtohCti5dj4QT7Dcu6MGTwWP8rU # xLODGEN.73.7z
+    - https://mega.nz/file/0BhWBQpA#JNUgN6JUvYFR6z2_vuAoqXojElpHHurdQbga7XSM1-k # xLODGEN.75.7z
+    - https://mega.nz/#!oVplUSpZ!RuT0KTyW3TCqDs4NcIRy3-RtGjPOtHcGYOJkLmpv1TY # xLODGEN.76.7z
+    - https://mega.nz/file/oVplUSpZ#RuT0KTyW3TCqDs4NcIRy3-RtGjPOtHcGYOJkLmpv1TY # xLODGEN.76.7z alternate link
+    - https://mega.nz/file/tc5giZLT#BjwaiKq3JZ8-dAtvXp08yhY4yb3al2qsqn_e-1xEH6U # xLodGen.77.7z
+    - https://mega.nz/file/cAwSUbhY#R1BF0kYlFBWWyFcBfa4y-cl4HtnDVCVlicoOWXE8KDg # xLodGen.78.7z
+    - https://mega.nz/file/cAwSUbhY#R1BF0kYlFBWWyFcBfa4y-cl4HtnDVCVlicoOWXE8KDg # xLodGen.79.7z
+    - https://mega.nz/file/NYhjxAiJ#WZdgPqhvflUG0NfqnoOLaPg8BYUJd7uz7rwb-k5dDvc # xLodGen.80.7z
+    - https://mega.nz/file/YNxB3AgB#7r-UlNjcB0qtnoiuE0PtFPQlezNESsnUZlVCEa-s6-0 # xLodGen.81.7z
+    - https://mega.nz/file/xdwmmKgA#I_KNynb4Fz0mrQV8bxBNlgw42KUykkk2VhM1RRkn5ts # xLodGen.82.7z
+    - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg # xLodGen.83.7z
+    - https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg # xLodGen.84.7z
+    - https://mega.nz/#!tVISya7T!CzWGBIN0JMyvyCOBOUEU-kt_8cQAbrhPmdkUvPzRi4k # DynDOLOD-Standalone.2.72.7z
+    - https://mega.nz/#!cMZ3AKLA!8uQdXz3-PqksUVodxQ5mulvubrUZqOY_cQSr3pktyYQ # DynDOLOD-Standalone.2.73.7z
+    - https://mega.nz/#!5d5hwaLK!qfWM78pRe2xQUSmEjRRo5_NjJyh-DfCz_kHnAjDUt_c # DynDOLOD-Standalone.2.76.7z
+    - https://mega.nz/#!wQQgjAYB!KT533TYLuZobsuAgWDKEenkuxROew_ZgFgc_osig1xU # DynDOLOD-Standalone.2.79.7z
+    - https://mega.nz/#!Ud4HmKzI!VEkuqVsg7_HogGfig2QFjV55EV4DbONQGLOHfISXBTI # DynDOLOD-Standalone.2.81.7z
+    - https://mega.nz/file/tEh2AThZ#fJV4WkZ8Qaafcdbv8isdRnS4U7OfzqkTZhxm4_2TiEc # DynDOLOD-Standalone.3.00-Alpha-35.7z
+    - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
+    - https://mega.nz/#!YAARAArC!hA3KmN_-k5l9Mljh373f_uyYZrpLZ6Fh9B1BsVAyfQE # DynDOLOD-Resources-SE.2.73.7z
+    - https://mega.nz/#!YBAiyYZJ!I-d2FEAmRydom04iXs0J4A13dizRtgSJyxL9nLKI9_Y # DynDOLOD-Resources-SE.2.75.7z
+    - https://mega.nz/#!ldhUVagZ!p3fGImmjnJo9ElPet_xn9dGwhCoHpBswmKbI1HMPKqU # DynDOLOD-Resources-SE.2.77.7z
+    - https://mega.nz/#!JB4DiQhD!7fpFxGCgsOA5AYqH1lGXUJ8AIzv4Wn78HDHfj12r92k # DynDOLOD-Resources-SE.2.81.7z
+    - https://mega.nz/#!xF5XCCaB!ThNADTpeAGjKRNX73GLVp_IpYNier3_rP3Ul4P6VGPc # DynDOLOD-Resources-LE.2.81.7z
+    - https://mega.nz/#!xA4BDCiZ!NbyIdNofELNrLpoN9MJRPclLjCdh2zj_Y-22rHy1fAQ # DynDOLOD-Scripts-2.82.7z
+    - https://mega.nz/#!JYgUDCCK!hgUAmavw2NUtYxQf8HfDuIOQNdX7hF_Vwbe8iDc6E0w # DynDOLOD-Scripts.7z For Skyrim VR
+    - https://mega.nz/#!SoEGTapT!qLPu9ozCMakg2hUH9pE4HMxPhfOMfrnW3d5gFlpWfyI # ENB Water
+    - https://mega.nz/#!0VQ3jC7S!VmTf4nIqunv2GL9Zvh7lLWefJnc2kX4ZUWi42mjc6LE # DynDOLOD-DLL-SE.1.5.97.7z
+    - https://mega.nz/#!BBpADYpA!gOHRMZv6Ncd3uSLGD2BGE5hVeL6049R4QbpXVQcmC5Y # DynDOLOD-DLL-VR.1.4.15.7z
+    - https://mega.nz/#!K4dEAa4S!rrg78Fck-0QL-bcyHt9sPxJOat9ZA5Fau0JJEPiXGvY # Creation Kit 1.5.3
+    - https://mega.nz/#!210REASY!YX-EBJs656xjtTLcWHrYKoUZGeAsfZH2dRw-HCHs4JM # Skyrim Particle Patch for ENB LE
+    - https://mega.nz/#!C5URxZgZ!POqE1rSektbubtL9z58k4yFr5_MP4aBDZBIYHfl5UKc # Skyrim Subsurface Scattering Patch for ENB LE
+    - https://mega.nz/file/usAizaTA#vf09_4PAHub9aRVn399Z1vt6o2CHD8_db5Aij-VzI-I # Mod Organizer 2.3.0 Alpha Build 8.8
+    - https://mega.nz/file/H0YGyQzR#znVlNTshRUA2WWoYZjwqr5O1IBaYAsiCBu0wEn7KsQI # Mod Organizer 2.3.0 Alpha Build 9
+    - https://mega.nz/file/mds1AJzA#wZJMXX8BV481aZQ72wCoLaOamqWziW682YhX-8oSC0g # Mod.Organizer-2.3.0alpha11
+    - https://mega.nz/file/ccxySTLS#vHC2q0NzkqGLo4BsJSDwZfBlk5eLmWYuunz6a_bkTGE # DynDOLOD Resources SE 3.00 Alpha 7
+    - https://mega.nz/file/sF4UVQ4a#xGqDL2Y7q2aba1zqSS9xKZXZ6swtQpVOo1bEKmwi2MY # DynDOLOD Resources SE 3.00 Alpha 8
+    - https://mega.nz/file/QdZgUZoL#7wfJuR1-uU7Du7SDy_vcuuPkUDfwGjMN9XlwU_0WD2E # DynDOLOD Resources SE 3.00 Alpha 9
+    - https://mega.nz/file/8N5W3ZYB#U-xoDP54PqVQyL0VQTznUhk3Ha4Qn8PoHdmIegUwahI # DynDOLOD Standalone 3.00 Alpha 27
+    - https://mega.nz/file/tRgXlS4A#4J8d2KzEvJxwrEmtnC3x7HLHP_E5Bo2z7FeCnzG_Q5w # DynDOLOD Standalone 3.00 Alpha 30
+    - https://mega.nz/file/Ed4wWYjC#3wI37OKSV4lQoE8hkTmwJIpFl8FzUqWynVVfpUJFggs # DynDOLOD Standalone 3.00 Alpha 33
