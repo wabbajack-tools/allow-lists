@@ -9,10 +9,6 @@ AllowedPrefixes:
     # Common Sites
     - http://enbseries.enbdev.com/
     - http://enbdev.com/
-    - https://github.com/
-    - https://raw.githubusercontent.com/  
-    - https://gist.github.com/ # Github subdomain
-    - https://git.fireundubh.com/ # Fireundubh's Github subdomain
 
  # Common files
     - https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z # xEdit 4.0.3g (Official Discord Link)
