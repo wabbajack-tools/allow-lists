@@ -8,6 +8,7 @@ AllowedPrefixes:
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
     
     # Common Sites
+    - https://www.confrerie-des-traducteurs.fr/ # La Confrérie des Traducteurs - French translations
     - http://enbseries.enbdev.com/
     - http://enbdev.com/
 
